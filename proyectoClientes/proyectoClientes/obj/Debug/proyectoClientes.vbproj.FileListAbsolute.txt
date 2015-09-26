@@ -1,0 +1,7 @@
+c:\users\antonio pantoja\documents\visual studio 2012\Projects\proyectoClientes\proyectoClientes\bin\Debug\proyectoClientes.exe.config
+c:\users\antonio pantoja\documents\visual studio 2012\Projects\proyectoClientes\proyectoClientes\obj\Debug\proyectoClientes.frmListadoClientes.resources
+c:\users\antonio pantoja\documents\visual studio 2012\Projects\proyectoClientes\proyectoClientes\obj\Debug\proyectoClientes.vbproj.GenerateResource.Cache
+c:\users\antonio pantoja\documents\visual studio 2012\Projects\proyectoClientes\proyectoClientes\bin\Debug\proyectoClientes.exe
+c:\users\antonio pantoja\documents\visual studio 2012\Projects\proyectoClientes\proyectoClientes\bin\Debug\proyectoClientes.pdb
+c:\users\antonio pantoja\documents\visual studio 2012\Projects\proyectoClientes\proyectoClientes\obj\Debug\proyectoClientes.exe
+c:\users\antonio pantoja\documents\visual studio 2012\Projects\proyectoClientes\proyectoClientes\obj\Debug\proyectoClientes.pdb
